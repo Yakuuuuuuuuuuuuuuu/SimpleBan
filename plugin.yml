@@ -1,0 +1,9 @@
+name: Ban
+main: moderation\Main
+version: 1.0.0
+api: 5.0.0
+author: Yaku
+
+permissions:
+  ban:
+    default: op
